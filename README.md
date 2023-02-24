@@ -1,0 +1,2 @@
+# testik
+we study git
